@@ -44,7 +44,7 @@ const about = {
   show: true,
   heading: "About Me",
   imageLink: require("../editable-stuff/profile.png"),
-  imageSize: 375,
+  imageSize: 350,
   message:
     `My name is Jafeth Montero. I am a programming enthusiast focused on developing high-quality web and mobile applications with Javascript,
     when I am not coding or studying I like to be in nature, take pictures, travel, and spent time with family and friends.
